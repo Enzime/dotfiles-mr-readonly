@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/mpv.git]
-checkout = vcsh clone git@github.com:Enzime/dotfiles-mpv.git compton
+checkout = vcsh clone git@github.com:Enzime/dotfiles-mpv.git mpv
