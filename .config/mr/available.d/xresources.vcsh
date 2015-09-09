@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/xresources.git]
-checkout = vcsh clone git@github.com:Enzime/dotfiles-xresources.git xresources

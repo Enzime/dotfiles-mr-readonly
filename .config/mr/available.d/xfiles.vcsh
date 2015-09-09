@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/xfiles.git]
+checkout = vcsh clone git@github.com:Enzime/dotfiles-xfiles.git xfiles
