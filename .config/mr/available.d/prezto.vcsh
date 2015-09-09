@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/prezto.git]
-checkout = vcsh clone git://github.com/Enzime/dotfiles-prezto.git prezto
+checkout = vcsh clone git@github.com:Enzime/dotfiles-prezto.git prezto
