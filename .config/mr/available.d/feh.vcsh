@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/feh.git]
+checkout = vcsh clone git@github.com:Enzime/dotfiles-feh.git feh
