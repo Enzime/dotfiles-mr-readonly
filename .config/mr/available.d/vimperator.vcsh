@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/vimperator.git]
-checkout = vcsh clone git@github.com:Enzime/dotfiles-vimperator.git vimperator
+checkout = vcsh clone https://github.com/Enzime/dotfiles-vimperator.git vimperator

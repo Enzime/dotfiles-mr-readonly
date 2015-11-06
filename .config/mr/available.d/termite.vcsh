@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/termite.git]
-checkout = vcsh clone git@github.com:Enzime/dotfiles-termite.git termite
+checkout = vcsh clone https://github.com/Enzime/dotfiles-termite.git termite

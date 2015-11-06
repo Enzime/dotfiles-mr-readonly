@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/scripts.git]
-checkout = vcsh clone git@github.com:Enzime/scripts.git scripts
+checkout = vcsh clone https://github.com/Enzime/scripts.git scripts
